@@ -1,0 +1,6 @@
+{
+  "name": "TD Mahant Cartoon Videos",
+  "description": "AI cartoon video creation platform by TD Mahant. Generate custom animations in Hindi, English and global languages, earn coin rewards, and track creator earnings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
